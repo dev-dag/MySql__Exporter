@@ -56,7 +56,7 @@ namespace MySql__Exporter
             pro.StandardInput.AutoFlush = false;
             pro.StandardInput.Write(@"cd C:\Program Files\MySQL\MySQL Server 8.0\bin");
             pro.StandardInput.WriteLine();
-            pro.StandardInput.Write(@"mysqldump -u root --password=rubestry030409 -Y base_data > C:\Users\pppol\backup.sql");
+            pro.StandardInput.Write(@"mysqldump -u root --password=rubestry030409 --databases base_data > C:\Users\pppol\backup.sql");
             pro.StandardInput.WriteLine();
             pro.StandardInput.Flush();
 
