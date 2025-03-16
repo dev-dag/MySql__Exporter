@@ -1,0 +1,7 @@
+C:\Users\pppol\OneDrive\바탕 화면\MySql__Exporter\MySql__Exporter\bin\Debug\MySql__Exporter.exe.config
+C:\Users\pppol\OneDrive\바탕 화면\MySql__Exporter\MySql__Exporter\bin\Debug\MySql__Exporter.exe
+C:\Users\pppol\OneDrive\바탕 화면\MySql__Exporter\MySql__Exporter\bin\Debug\MySql__Exporter.pdb
+C:\Users\pppol\OneDrive\바탕 화면\MySql__Exporter\MySql__Exporter\obj\Debug\MySql__Exporter.csproj.AssemblyReference.cache
+C:\Users\pppol\OneDrive\바탕 화면\MySql__Exporter\MySql__Exporter\obj\Debug\MySql__Exporter.csproj.CoreCompileInputs.cache
+C:\Users\pppol\OneDrive\바탕 화면\MySql__Exporter\MySql__Exporter\obj\Debug\MySql__Exporter.exe
+C:\Users\pppol\OneDrive\바탕 화면\MySql__Exporter\MySql__Exporter\obj\Debug\MySql__Exporter.pdb
