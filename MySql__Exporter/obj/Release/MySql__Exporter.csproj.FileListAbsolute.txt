@@ -1,0 +1,7 @@
+C:\WorkSpace\MySql__Exporter\MySql__Exporter\bin\Release\MySql__Exporter.exe.config
+C:\WorkSpace\MySql__Exporter\MySql__Exporter\bin\Release\MySql__Exporter.exe
+C:\WorkSpace\MySql__Exporter\MySql__Exporter\bin\Release\MySql__Exporter.pdb
+C:\WorkSpace\MySql__Exporter\MySql__Exporter\obj\Release\MySql__Exporter.csproj.AssemblyReference.cache
+C:\WorkSpace\MySql__Exporter\MySql__Exporter\obj\Release\MySql__Exporter.csproj.CoreCompileInputs.cache
+C:\WorkSpace\MySql__Exporter\MySql__Exporter\obj\Release\MySql__Exporter.exe
+C:\WorkSpace\MySql__Exporter\MySql__Exporter\obj\Release\MySql__Exporter.pdb
